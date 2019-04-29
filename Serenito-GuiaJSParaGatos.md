@@ -1,7 +1,7 @@
 Seminario de Informática y Telecomunicaciones 
 ---
 # **Guía JS para Gatos**
-![pio](logopio.png)
+
 ###### _(HTTPS://JSPARAGATOS.COM/)_
 ##### Macri, Giannetto, Gastiasoro y Rey
 ---
