@@ -10,8 +10,8 @@
 ## *Respuestas*
 
     1. Lo que mas me gusto de la guia fue su simpleza y su dinamica de tomarte como un gato haciendolo parecer facil.
+    1. Lo que nos parecio mas facil fue el declarar una variable, algo muy simple e intuitivo.
     1. 
-    1. A
     1. A
     1. A
     1. A
