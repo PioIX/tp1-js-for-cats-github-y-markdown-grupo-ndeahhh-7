@@ -1,7 +1,7 @@
 
  # **Guía JS para Gatos**  ![logopio](logopio.jpg)
 
-## Preguntas
+## Desarrollo
 
 ### 1. ¿Qué fue lo que te gustó más?
 
