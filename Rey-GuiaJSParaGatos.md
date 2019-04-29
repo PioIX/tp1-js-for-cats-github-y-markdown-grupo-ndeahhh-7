@@ -8,4 +8,4 @@
 1. ¿Cuáles son los tips que da el autor para ser un buen programador?
   
   
-1. AS
+2. AS
