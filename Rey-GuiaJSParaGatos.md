@@ -11,7 +11,7 @@
 
     1. Lo que mas me gusto de la guia fue su simpleza y su dinamica de tomarte como un gato haciendolo parecer facil.
     1. Lo que nos parecio mas facil fue el declarar una variable, algo muy simple e intuitivo.
-    1. 
-    1. A
-    1. A
-    1. A
+    1. Lo mas dificil, para nosotros, fue utilizar los objetos
+    1. Teniamos conocimiento del lenguaje Pseudocodigo, Visual Basic y C+
+    1. Es difetente al Pseudocodigo y al Visual Basic en cuanto a su complejidad ya que estos dos son mas introuctivos a la programacion.
+    1. "No hay que tener miedo a equivocarse" y "Hay que ser lo mas flojo posible.
