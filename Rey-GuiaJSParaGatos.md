@@ -8,5 +8,7 @@
 1. ¿Cuáles son los tips que da el autor para ser un buen programador?
 
 
-  1.ASD
-  2.FG
+1.ASD
+
+
+1.ASD
