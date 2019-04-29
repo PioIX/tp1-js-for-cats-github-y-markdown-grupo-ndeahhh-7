@@ -1,5 +1,5 @@
 
-# **Guía JS para Gatos** 
+ # **Guía JS para Gatos**  ![logopio](logopio.jpg)
 
 ## Preguntas
 
@@ -28,6 +28,7 @@ La diferencia principal de JS es que está principalmente enfocado a los objetos
 El autor aconseja que "La mejor forma de aprender es cometiendo errores! Es por eso que no tienes que ser un gato miedoso!" y estamos de acuerdo. 
 
 ---
-##### Integrantes: Macri, Giannetto, Gastiasoro y Rey
-##### Curso: 5ºA Informática
-##### Seminario de Informática y Telecomunicaciones 
+##### *Integrantes:* Macri, Giannetto, Gastiasoro y Rey
+##### *Curso:* 5ºA Informática
+##### *Seminario de Informática y Telecomunicaciones* 
+
