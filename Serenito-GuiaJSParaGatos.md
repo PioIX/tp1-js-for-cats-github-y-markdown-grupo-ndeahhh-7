@@ -1,7 +1,6 @@
-Seminario de Informática y Telecomunicaciones 
----
+
 # **Guía JS para Gatos** 
----
+
 ## Preguntas
 
 ### 1. ¿Qué fue lo que te gustó más?
@@ -31,3 +30,4 @@ El autor aconseja que "La mejor forma de aprender es cometiendo errores! Es por 
 ---
 ##### Integrantes: Macri, Giannetto, Gastiasoro y Rey
 ##### Curso: 5ºA Informática
+##### Seminario de Informática y Telecomunicaciones 
