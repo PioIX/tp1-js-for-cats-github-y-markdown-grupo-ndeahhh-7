@@ -1,25 +1,27 @@
-# Guía JS para Gatos
+Seminario de
+Informática y Telecomunicaciones 
 ---
-**TP Seminario**
+# **Guía JS para Gatos**
+
+###### _(HTTPS://JSPARAGATOS.COM/)_
 *Macri*, *Giannetto*, *Gastiasoro* y *Rey*
 22 de abril de 2019
-![peppa-le-dio-a-la-pepa](peppa.jpg)
 ---
 
-# Sección 1
+## Preguntas
 
-## Subsección 1.1
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### 1. ¿Qué fue lo que te gustó más?
 
-El siguiente párrafo debe empezar como éste, sin sangría:
+Que sea entretenido
 
-## Subsección 1.2
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque  ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+### 2. ¿Qué fue lo más fácil?
 
-# Sección 2
+### 3. ¿Qué fue lo más difícil?
 
-## Subsección 2.1
+### 4. ¿Qué conocías de otros lenguajes (nombrar el lenguaje)?
 
-Una oración que requiere una cita.[^1]
+### 5. ¿Qué es diferente de otros lenguajes (nombrar el lenguaje)?
 
-[^1]: ¡Ésta es mi primer nota a pie de página! Y un [enlace](https://ojo.pe/locomundo/peppa-pig-conocias-su-aterrador-origen-preparate-video-222536/).
+### 6. ¿Cuáles son los Tips que da el autor para ser un buen programador?
+
+
