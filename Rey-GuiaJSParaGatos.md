@@ -9,7 +9,7 @@
 
 ## *Respuestas*
 
-    1. Lo que mas me gusto de la guia fue su simpleza y su dinamica de tomarte como un gato haciendolo parecer facil.
+1. Lo que mas me gusto de la guia fue su simpleza y su dinamica de tomarte como un gato haciendolo parecer facil.
     2. Lo que nos parecio mas facil fue el declarar una variable, algo muy simple e intuitivo.
     3. Lo mas dificil, para nosotros, fue utilizar los objetos
     4. Teniamos conocimiento del lenguaje Pseudocodigo, Visual Basic y C+
