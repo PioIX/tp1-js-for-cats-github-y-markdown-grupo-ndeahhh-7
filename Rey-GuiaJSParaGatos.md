@@ -7,7 +7,7 @@
 1. ¿Qué es diferente de otros lenguajes (nombrar el lenguaje)?
 1. ¿Cuáles son los tips que da el autor para ser un buen programador?
 
-## Respuestas
+## *Respuestas*
 
     1. Lo que mas me gusto de la guia fue su simpleza y su dinamica de tomarte como un gato haciendolo parecer facil.
     2. Lo que nos parecio mas facil fue el declarar una variable, algo muy simple e intuitivo.
